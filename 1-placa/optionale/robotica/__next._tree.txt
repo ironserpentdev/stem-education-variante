@@ -1,0 +1,7 @@
+:HL["/stem-education-variante/1-placa/_next/static/chunks/0t460jsazau6i.css","style"]
+:HL["/stem-education-variante/1-placa/_next/static/media/068feab4deafcd0f-s.p.0_kz_z3o_slvt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/stem-education-variante/1-placa/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"robotica","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"optionale","h":131168,"c":"$Q2"}]]
+0:{"b":"6MC8j8yVmvPAaNvutGAxW","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

@@ -1,0 +1,4 @@
+:HL["/stem-education-variante/3-crazy/_next/static/chunks/1d5y_4izn0t_6.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"2vB8WsBmZb0yaYoB6qcC7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
