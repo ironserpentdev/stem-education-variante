@@ -1,0 +1,4 @@
+:HL["/stem-education-variante/_next/static/chunks/1oh9mu5qqs-34.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"j5DnTHPjn3Pqgs7UPn1NG","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
