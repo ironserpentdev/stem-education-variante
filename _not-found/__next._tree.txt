@@ -1,4 +1,4 @@
 :HL["/stem-education-variante/_next/static/chunks/3ym5-ts2s9xcz.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"QFfVbk-rrcVjoW_vVi4pv","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"-5lzIYO7FOnUlLCUjnhXo","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
